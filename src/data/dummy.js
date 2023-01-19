@@ -80,7 +80,7 @@ const gridEmployeeCountry = (props) => (
 export const EditorData = () => (
   <div>
     <h3>
-      
+      Welcome to React Dashboard!
     </h3>
   </div>
 );
